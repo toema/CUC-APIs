@@ -10,6 +10,7 @@ First assign CUC main Info
 
 ### CUC(UserName,Password,CUC_IP)
 
-### getVMts=cuc.Get_Templates() ##It could return list or dict
+##It could return list or dict
+### getVMts=cuc.Get_Templates() 
 
 ### AddUser=CUC.Add_User(UserID,Extension,UserTemplate)
